@@ -9,3 +9,7 @@ version = "0.1.0"
 [[package]]
 name = "stronghold-001-dna"
 version = "0.1.0"
+
+[[package]]
+name = "stronghold-002-rna"
+version = "0.1.0"
